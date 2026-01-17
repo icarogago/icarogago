@@ -4,7 +4,7 @@ Olá! Sou Desenvolvedor Full Stack Python, formado pela EBAC – Escola Britâni
 
 ## 🚀 Tecnologias & Ferramentas
 - **Frontend:** HTML5, CSS3, SCSS, JavaScript
-- **Frameworks:** VueJS, React (noções em Angular e Svelte)
+- **Frameworks:** Vite, React (noções em Angular e Svelte)
 - **Backend:** Python, Django, MySQL.
 - **Design:** UX/UI, design responsivo, Figma
 - **Outros:** Git, consumo de APIs, metodologias ágeis
