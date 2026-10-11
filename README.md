@@ -1,6 +1,6 @@
 # 👨‍💻 Ícaro – Desenvolvedor Full Stack Python
 
-Olá! Sou Desenvolvedor Full Stack Python, formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Tenho experiência prévia em suporte técnico, manutenção de redes e servidores, o que me dá uma boa base para pensar em soluções completas, do back ao front-end.
+Olá! Sou Desenvolvedor Full Stack Python. Tenho experiência prévia em suporte técnico, manutenção de redes e servidores, o que me dá uma boa base para pensar em soluções completas, do back ao front-end.
 
 ## 🚀 Tecnologias & Ferramentas
 - **Frontend:** HTML5, CSS3, SCSS, JavaScript
